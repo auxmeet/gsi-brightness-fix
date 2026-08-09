@@ -1,6 +1,6 @@
-id=brightness_fix_infinix
-name=Brightness fix for Infinix hot 12 pro and other
-version=v2.4
-versionCode=2
+id=gsi-brightness-fix
+name=Brightness fix for GSI
+version=v1.0
+versionCode=1
 author=auxmeet
-description=Set maxium brightness for phone Infinix Hot 12 Pro on pixel experience 12
+description=Set maxium brightness for GSI

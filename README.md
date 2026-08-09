@@ -1,5 +1,5 @@
 # gsi-brightness-fix
-brightness fix for gsi
+Brightness fix for GSI
 
 ## How it works:
 When phone is started succesfully this module run command:

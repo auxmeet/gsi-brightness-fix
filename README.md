@@ -1,5 +1,9 @@
-# infinix-brightness-fix
-brightness fix for Infinix phones on pixel experience 12 or other
+# gsi-brightness-fix
+
+## brightness fix for gsi
+
+How it works:
+When phone is started succesfully this module run command 
 
 I tested this module on:
 

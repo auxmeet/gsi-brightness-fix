@@ -2,7 +2,7 @@
 
 ## brightness fix for gsi
 
-How it works:
+## How it works:
 When phone is started succesfully this module run command 
 
 I tested this module on:

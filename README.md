@@ -2,7 +2,7 @@
 brightness fix for gsi
 
 ## How it works:
-When phone is started succesfully this module run command 
+When phone is started succesfully this module run command:
 `setprop persist.sys.qcom-brightness 4095`
 
 ## I tested this module on:

@@ -2,5 +2,5 @@ id=gsi-brightness-fix
 name=Brightness fix for GSI
 version=v1.0
 versionCode=1
-author=auxmeet
+author=auxmeet & iromenero
 description=Set maxium brightness for GSI
